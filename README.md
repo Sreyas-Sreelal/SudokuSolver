@@ -6,4 +6,8 @@ C++ application to solve sudoku puzzles
 <img src="https://s30.postimg.org/y4x4j89s1/Capture.png">
 </p>
 
+##Videos
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1Zfk7QFyGhM/0.jpg)](https://www.youtube.com/watch?v=1Zfk7QFyGhM)
+
 
